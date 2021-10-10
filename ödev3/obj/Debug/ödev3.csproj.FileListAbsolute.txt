@@ -1,0 +1,10 @@
+C:\Users\esend\OneDrive\Masaüstü\üni notları\ödev\nyp\ödev3\ödev3\obj\Debug\ödev3.csproj.AssemblyReference.cache
+C:\Users\esend\OneDrive\Masaüstü\üni notları\ödev\nyp\ödev3\ödev3\obj\Debug\ödev3.frmEkran.resources
+C:\Users\esend\OneDrive\Masaüstü\üni notları\ödev\nyp\ödev3\ödev3\obj\Debug\ödev3.Properties.Resources.resources
+C:\Users\esend\OneDrive\Masaüstü\üni notları\ödev\nyp\ödev3\ödev3\obj\Debug\ödev3.csproj.GenerateResource.cache
+C:\Users\esend\OneDrive\Masaüstü\üni notları\ödev\nyp\ödev3\ödev3\obj\Debug\ödev3.csproj.CoreCompileInputs.cache
+C:\Users\esend\OneDrive\Masaüstü\üni notları\ödev\nyp\ödev3\ödev3\bin\Debug\ödev3.exe.config
+C:\Users\esend\OneDrive\Masaüstü\üni notları\ödev\nyp\ödev3\ödev3\bin\Debug\ödev3.exe
+C:\Users\esend\OneDrive\Masaüstü\üni notları\ödev\nyp\ödev3\ödev3\bin\Debug\ödev3.pdb
+C:\Users\esend\OneDrive\Masaüstü\üni notları\ödev\nyp\ödev3\ödev3\obj\Debug\ödev3.exe
+C:\Users\esend\OneDrive\Masaüstü\üni notları\ödev\nyp\ödev3\ödev3\obj\Debug\ödev3.pdb
